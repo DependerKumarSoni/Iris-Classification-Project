@@ -13,7 +13,7 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 Now, here in this model, we'll predict the class of Iris flower based on its petal's and sepal's length and breadth.
 
 **Note: This repository contains *Iris.names* file which can be used to understand data much clearly.**
-      **This repository also contains *Iris.data* file which contains the actual dataset.
+      **This repository also contains *Iris.data* file which contains the actual dataset.**
       **Data Science concepts are already explained in *Iris_Classification_Project.ipynb* file available in this repository.**
       **We will use python 3 for this project. This project may be found in R but you need to search google for that..!**
       
